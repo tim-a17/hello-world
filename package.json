@@ -15,5 +15,8 @@
     "url": "https://github.com/tim-a17/hello-world/issues"
   },
   "homepage": "https://github.com/tim-a17/hello-world#readme",
-  "description": ""
+  "description": "",
+  "publishConfig": {
+   "@tim-a17:registry": "https://npm.pkg.github.com"
+ }
 }
